@@ -1,0 +1,70 @@
+.headingframe {margin: auto;
+            text-align: center;
+
+            }
+
+h2 {font-family: fantasy;
+
+            }
+
+.stripframe {  display: block;
+                align-content: center;
+                align-items: center;
+                padding-top: 50px;
+                height: fit-content;
+                background-color: grey;
+
+    
+            }
+
+.postframe {  display: block;
+                position: relative;
+                padding-left: 35%;
+                align-items: center;
+                height: fit-content;
+                width: fit-content;
+                padding-bottom: 50px;
+
+}
+
+            .posttitle {background-color: white;
+                         height: 80px;
+                        align-content: center;
+
+
+                
+                        
+                     
+           }
+
+                        .titulo {float: left;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        font-size: medium;
+                        font: bold ;
+
+
+            }
+
+                        .fecha {float: right;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                        font-size: small;
+                        
+
+
+            }
+
+            .postpic {        margin-left: auto;
+                            margin-right: auto;
+                             width: fit-content;
+
+            }
+
+
+            .postcomment {background-color: white;
+                        font-family: "Comic Sans MS", "Comic Sans", cursive;
+                        font-size: small;
+                         height: 80px;
+                        align-content: center;
+
+            }
+
